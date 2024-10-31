@@ -12,7 +12,7 @@ Responsive Design: Optimized for various screen sizes and devices.
 Animated Background: Engaging rotating food imagery to enhance user experience.
 Clean, Modern UI: Utilizes a warm color palette and contemporary typography.
 
-Technical Highlights:
+**Technical Highlights:**
 
 Responsive CSS layout with flexbox and grid
 Custom animations and transitions for interactive elements
