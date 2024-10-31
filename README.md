@@ -16,4 +16,3 @@ Custom animations and transitions for interactive elements
 Integration with an external recipe API (details to be added)
 Modular JavaScript for handling search functionality and dynamic content rendering
 This project aims to simplify the process of finding and learning new recipes, making cooking more accessible and enjoyable for users of all skill levels.
-hello ....
