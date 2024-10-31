@@ -1,3 +1,11 @@
+![Image alt]()
+
+
+
+
+
+
+
 This web page allows users to search for and explore various recipes. Built with HTML, CSS, and JavaScript, it offers a user-friendly interface for discovering new meals and their preparation methods.
 
 Key Features:
