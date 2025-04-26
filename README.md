@@ -1,6 +1,9 @@
+# Recipe Webpage                                                          
+![Image alt](https://github.com/Ojesh-Mundale/Recipe-Website/blob/f60163d986e431d73d6681d9b3f29f2a7791b622/Recipepage.png)
+
 This web page allows users to search for and explore various recipes. Built with HTML, CSS, and JavaScript, it offers a user-friendly interface for discovering new meals and their preparation methods.
 
-Key Features:
+**Key Features:**
 
 Dynamic Search: Instantly find recipes based on ingredients or meal names.
 Visual Recipe Cards: Display search results with appetizing food images.
@@ -9,7 +12,7 @@ Responsive Design: Optimized for various screen sizes and devices.
 Animated Background: Engaging rotating food imagery to enhance user experience.
 Clean, Modern UI: Utilizes a warm color palette and contemporary typography.
 
-Technical Highlights:
+**Technical Highlights:**
 
 Responsive CSS layout with flexbox and grid
 Custom animations and transitions for interactive elements
